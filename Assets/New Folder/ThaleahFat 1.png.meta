@@ -1,0 +1,2132 @@
+fileFormatVersion: 2
+guid: 10a714ac8da76b440874a42d5ad0a3a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4343375551958612587
+    second: ThaleahFat 1_0
+  - first:
+      213: 9035062577743461241
+    second: ThaleahFat 1_1
+  - first:
+      213: 5295909046087860214
+    second: ThaleahFat 1_2
+  - first:
+      213: 2270189237222036546
+    second: ThaleahFat 1_3
+  - first:
+      213: 1079894280426661178
+    second: ThaleahFat 1_4
+  - first:
+      213: 2636609066763198970
+    second: ThaleahFat 1_5
+  - first:
+      213: 1580356096305682623
+    second: ThaleahFat 1_6
+  - first:
+      213: 2405167691887792681
+    second: ThaleahFat 1_7
+  - first:
+      213: 3411898383928940885
+    second: ThaleahFat 1_8
+  - first:
+      213: 7930901291360801125
+    second: ThaleahFat 1_9
+  - first:
+      213: 8709608163957580299
+    second: ThaleahFat 1_10
+  - first:
+      213: 7488061938110496464
+    second: ThaleahFat 1_11
+  - first:
+      213: -3346122099901979343
+    second: ThaleahFat 1_12
+  - first:
+      213: 7284190613372346182
+    second: ThaleahFat 1_13
+  - first:
+      213: 6972250512347971114
+    second: ThaleahFat 1_14
+  - first:
+      213: 1874561630470148593
+    second: ThaleahFat 1_15
+  - first:
+      213: 8333130336175172911
+    second: ThaleahFat 1_16
+  - first:
+      213: 5290389381306413821
+    second: ThaleahFat 1_17
+  - first:
+      213: 7738705279942266314
+    second: ThaleahFat 1_18
+  - first:
+      213: 3569740965747918705
+    second: ThaleahFat 1_19
+  - first:
+      213: 8391823730303402613
+    second: ThaleahFat 1_20
+  - first:
+      213: 1066974493136578701
+    second: ThaleahFat 1_21
+  - first:
+      213: -8049354317523038736
+    second: ThaleahFat 1_22
+  - first:
+      213: 6208122902792333644
+    second: ThaleahFat 1_23
+  - first:
+      213: 7218777596502285848
+    second: ThaleahFat 1_24
+  - first:
+      213: -6141830016494189321
+    second: ThaleahFat 1_25
+  - first:
+      213: 4852142266765793670
+    second: ThaleahFat 1_26
+  - first:
+      213: 1881939149539614381
+    second: ThaleahFat 1_27
+  - first:
+      213: 7456961658667157162
+    second: ThaleahFat 1_28
+  - first:
+      213: -373403345005183776
+    second: ThaleahFat 1_29
+  - first:
+      213: -7943149629753702270
+    second: ThaleahFat 1_30
+  - first:
+      213: 3404951262853755860
+    second: ThaleahFat 1_31
+  - first:
+      213: -934254515075188745
+    second: ThaleahFat 1_32
+  - first:
+      213: 1481100263251711691
+    second: ThaleahFat 1_33
+  - first:
+      213: -6477832142686729187
+    second: ThaleahFat 1_34
+  - first:
+      213: -6099630664202614081
+    second: ThaleahFat 1_35
+  - first:
+      213: -7671560439480504189
+    second: ThaleahFat 1_36
+  - first:
+      213: 7140078564593714711
+    second: ThaleahFat 1_37
+  - first:
+      213: 3812461764375847924
+    second: ThaleahFat 1_38
+  - first:
+      213: -2858284594706532706
+    second: ThaleahFat 1_39
+  - first:
+      213: -4866946664214780783
+    second: ThaleahFat 1_40
+  - first:
+      213: -6740499350790748973
+    second: ThaleahFat 1_41
+  - first:
+      213: 3889286228671617968
+    second: ThaleahFat 1_42
+  - first:
+      213: -3474448166826775036
+    second: ThaleahFat 1_43
+  - first:
+      213: 4754052639194394098
+    second: ThaleahFat 1_44
+  - first:
+      213: -3028411859966554192
+    second: ThaleahFat 1_45
+  - first:
+      213: -1240300634879819504
+    second: ThaleahFat 1_46
+  - first:
+      213: -5309733091187800015
+    second: ThaleahFat 1_47
+  - first:
+      213: 291943338931150501
+    second: ThaleahFat 1_48
+  - first:
+      213: -4086660585702439436
+    second: ThaleahFat 1_49
+  - first:
+      213: -8004751051765591502
+    second: ThaleahFat 1_50
+  - first:
+      213: 1972421453727023707
+    second: ThaleahFat 1_51
+  - first:
+      213: -3880655206323463886
+    second: ThaleahFat 1_52
+  - first:
+      213: 392526355616622858
+    second: ThaleahFat 1_53
+  - first:
+      213: -1989584797092587089
+    second: ThaleahFat 1_54
+  - first:
+      213: 2998677306744083995
+    second: ThaleahFat 1_55
+  - first:
+      213: 4794266344991179536
+    second: ThaleahFat 1_56
+  - first:
+      213: -6054998591547782978
+    second: ThaleahFat 1_57
+  - first:
+      213: -2470052739208468374
+    second: ThaleahFat 1_58
+  - first:
+      213: -5968311785756528525
+    second: ThaleahFat 1_59
+  - first:
+      213: 5524072891914754023
+    second: ThaleahFat 1_60
+  - first:
+      213: -7886000189525556848
+    second: ThaleahFat 1_61
+  - first:
+      213: -8764213484487099632
+    second: ThaleahFat 1_62
+  - first:
+      213: 8279085243424433359
+    second: ThaleahFat 1_63
+  - first:
+      213: -7294354560996095361
+    second: ThaleahFat 1_64
+  - first:
+      213: -7479905689146028533
+    second: ThaleahFat 1_65
+  - first:
+      213: 5278062108735633154
+    second: ThaleahFat 1_66
+  - first:
+      213: 3056207346455376084
+    second: ThaleahFat 1_67
+  - first:
+      213: -8594588677992785549
+    second: ThaleahFat 1_68
+  - first:
+      213: 7640999772236711125
+    second: ThaleahFat 1_69
+  - first:
+      213: 5065065052098870349
+    second: ThaleahFat 1_70
+  - first:
+      213: 5275126056221276632
+    second: ThaleahFat 1_71
+  - first:
+      213: -9111967874493584946
+    second: ThaleahFat 1_72
+  - first:
+      213: 4968027263714501392
+    second: ThaleahFat 1_73
+  - first:
+      213: 6009911496593335016
+    second: ThaleahFat 1_74
+  - first:
+      213: -4742497321374052272
+    second: ThaleahFat 1_75
+  - first:
+      213: -3047910416531785777
+    second: ThaleahFat 1_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ThaleahFat 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595046b92fa39b3c0800000000000000
+      internalID: -4343375551958612587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bf2dd6b8df26d70800000000000000
+      internalID: 9035062577743461241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 118
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff38dee739de7940800000000000000
+      internalID: 5295909046087860214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 109
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244d8815515518f10800000000000000
+      internalID: 2270189237222036546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 109
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35aec3602e8cfe00800000000000000
+      internalID: 1079894280426661178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 118
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1aef31afd179420800000000000000
+      internalID: 2636609066763198970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 109
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb85cea1f7d8ee510800000000000000
+      internalID: 1580356096305682623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922d73cc54fd06120800000000000000
+      internalID: 2405167691887792681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 91
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55950dfc08f795f20800000000000000
+      internalID: 3411898383928940885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 100
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5615f3c64b8301e60800000000000000
+      internalID: 7930901291360801125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 91
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02a889ca7ebed870800000000000000
+      internalID: 8709608163957580299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 100
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0def235c8a0fae760800000000000000
+      internalID: 7488061938110496464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 91
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135224cbdaf2091d0800000000000000
+      internalID: -3346122099901979343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 100
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f1b4205c4a61560800000000000000
+      internalID: 7284190613372346182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_14
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 91
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e398186e862c060800000000000000
+      internalID: 6972250512347971114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 100
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f110cdfed7c30a10800000000000000
+      internalID: 1874561630470148593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 82
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2da0c2d3e935a370800000000000000
+      internalID: 8333130336175172911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 100
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df27444dc1d3b6940800000000000000
+      internalID: 5290389381306413821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_18
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 91
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd06606377656b60800000000000000
+      internalID: 7738705279942266314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177809bbe744a8130800000000000000
+      internalID: 3569740965747918705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5728d6e883fb57470800000000000000
+      internalID: 8391823730303402613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 73
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88eecff5a7aece00800000000000000
+      internalID: 1066974493136578701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 82
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd48c045e2fa4090800000000000000
+      internalID: -8049354317523038736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 72
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4967e653eea72650800000000000000
+      internalID: 6208122902792333644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_24
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 76
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e11103aff3e2460800000000000000
+      internalID: 7218777596502285848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 82
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4480c0426d3caa0800000000000000
+      internalID: -6141830016494189321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_26
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 73
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689db321fa5465340800000000000000
+      internalID: 4852142266765793670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_27
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 73
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae95318fadfd1a10800000000000000
+      internalID: 1881939149539614381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_28
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 82
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa64090be137c7760800000000000000
+      internalID: 7456961658667157162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 73
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecf507d2a761daf0800000000000000
+      internalID: -373403345005183776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_30
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 82
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28841c01f7344c190800000000000000
+      internalID: -7943149629753702270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_31
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 73
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d37ae32221d04f20800000000000000
+      internalID: 3404951262853755860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7732be77cd803f0800000000000000
+      internalID: -934254515075188745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_33
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 64
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc61bdb97dced8410800000000000000
+      internalID: 1481100263251711691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_34
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ccc8cbcfd1a16a0800000000000000
+      internalID: -6477832142686729187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_35
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 64
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba8f176a32c95ba0800000000000000
+      internalID: -6099630664202614081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_36
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 64
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38033db0d64298590800000000000000
+      internalID: -7671560439480504189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_37
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 64
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7164dfeef97a61360800000000000000
+      internalID: 7140078564593714711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3a16186c598e430800000000000000
+      internalID: 3812461764375847924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_39
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 53
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96bb811e455558d0800000000000000
+      internalID: -2858284594706532706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194a4ba8bc1257cb0800000000000000
+      internalID: -4866946664214780783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_41
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 54
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4cd5b9d8fe472a0800000000000000
+      internalID: -6740499350790748973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_42
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 45
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb5ac9f73589f530800000000000000
+      internalID: 3889286228671617968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_43
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 54
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e68c9fcc748cfc0800000000000000
+      internalID: -3474448166826775036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_44
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 45
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fda0b2ffa9c9f140800000000000000
+      internalID: 4754052639194394098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_45
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 54
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf0d15657be8f5d0800000000000000
+      internalID: -3028411859966554192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_46
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 45
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0110c4bd42199cee0800000000000000
+      internalID: -1240300634879819504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_47
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 54
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1384d9fb2e90056b0800000000000000
+      internalID: -5309733091187800015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_48
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 45
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae58838be03d0400800000000000000
+      internalID: 291943338931150501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5cd9f69d34947c0800000000000000
+      internalID: -4086660585702439436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 37
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232d314545969e090800000000000000
+      internalID: -8004751051765591502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_51
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 44
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5242c0acd27f5b10800000000000000
+      internalID: 1972421453727023707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239d15386a4252ac0800000000000000
+      internalID: -3880655206323463886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_53
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 36
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09e18704a8827500800000000000000
+      internalID: 392526355616622858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_54
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 36
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa957c61b239364e0800000000000000
+      internalID: -1989584797092587089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_55
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 36
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1691807f117d9920800000000000000
+      internalID: 2998677306744083995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_56
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 36
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0134fc3f6d7a88240800000000000000
+      internalID: 4794266344991179536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8cd4b9cd258fba0800000000000000
+      internalID: -6054998591547782978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_58
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 7
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68affede1c98bdd0800000000000000
+      internalID: -2470052739208468374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_59
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 21
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37074356d0c4c2da0800000000000000
+      internalID: -5968311785756528525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_60
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e791f3070379ac40800000000000000
+      internalID: 5524072891914754023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_61
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 27
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0918aa40c9c4f8290800000000000000
+      internalID: -7886000189525556848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_62
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 17
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b357945424f5680800000000000000
+      internalID: -8764213484487099632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_63
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 27
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4ed771a2835e270800000000000000
+      internalID: 8279085243424433359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_64
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ac3168c2f35ca90800000000000000
+      internalID: -7294354560996095361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_65
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 27
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e070de769023890800000000000000
+      internalID: -7479905689146028533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_66
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207f2a506817f3940800000000000000
+      internalID: 5278062108735633154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_67
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 27
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0796d9364d96a20800000000000000
+      internalID: 3056207346455376084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37955a92223e9b880800000000000000
+      internalID: -8594588677992785549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_69
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d482012fc84a0a60800000000000000
+      internalID: 7640999772236711125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_70
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c399a34d9ba4640800000000000000
+      internalID: 5065065052098870349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_71
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9f9760333053940800000000000000
+      internalID: 5275126056221276632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_72
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9e904de79cb8180800000000000000
+      internalID: -9111967874493584946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_73
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013a820897af1f440800000000000000
+      internalID: 4968027263714501392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_74
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e26bfd0aae776350800000000000000
+      internalID: 6009911496593335016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_75
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050124320d34f2eb0800000000000000
+      internalID: -4742497321374052272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaleahFat 1_76
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7f86bef95a3b5d0800000000000000
+      internalID: -3047910416531785777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ThaleahFat 1_0: -4343375551958612587
+      ThaleahFat 1_1: 9035062577743461241
+      ThaleahFat 1_10: 8709608163957580299
+      ThaleahFat 1_11: 7488061938110496464
+      ThaleahFat 1_12: -3346122099901979343
+      ThaleahFat 1_13: 7284190613372346182
+      ThaleahFat 1_14: 6972250512347971114
+      ThaleahFat 1_15: 1874561630470148593
+      ThaleahFat 1_16: 8333130336175172911
+      ThaleahFat 1_17: 5290389381306413821
+      ThaleahFat 1_18: 7738705279942266314
+      ThaleahFat 1_19: 3569740965747918705
+      ThaleahFat 1_2: 5295909046087860214
+      ThaleahFat 1_20: 8391823730303402613
+      ThaleahFat 1_21: 1066974493136578701
+      ThaleahFat 1_22: -8049354317523038736
+      ThaleahFat 1_23: 6208122902792333644
+      ThaleahFat 1_24: 7218777596502285848
+      ThaleahFat 1_25: -6141830016494189321
+      ThaleahFat 1_26: 4852142266765793670
+      ThaleahFat 1_27: 1881939149539614381
+      ThaleahFat 1_28: 7456961658667157162
+      ThaleahFat 1_29: -373403345005183776
+      ThaleahFat 1_3: 2270189237222036546
+      ThaleahFat 1_30: -7943149629753702270
+      ThaleahFat 1_31: 3404951262853755860
+      ThaleahFat 1_32: -934254515075188745
+      ThaleahFat 1_33: 1481100263251711691
+      ThaleahFat 1_34: -6477832142686729187
+      ThaleahFat 1_35: -6099630664202614081
+      ThaleahFat 1_36: -7671560439480504189
+      ThaleahFat 1_37: 7140078564593714711
+      ThaleahFat 1_38: 3812461764375847924
+      ThaleahFat 1_39: -2858284594706532706
+      ThaleahFat 1_4: 1079894280426661178
+      ThaleahFat 1_40: -4866946664214780783
+      ThaleahFat 1_41: -6740499350790748973
+      ThaleahFat 1_42: 3889286228671617968
+      ThaleahFat 1_43: -3474448166826775036
+      ThaleahFat 1_44: 4754052639194394098
+      ThaleahFat 1_45: -3028411859966554192
+      ThaleahFat 1_46: -1240300634879819504
+      ThaleahFat 1_47: -5309733091187800015
+      ThaleahFat 1_48: 291943338931150501
+      ThaleahFat 1_49: -4086660585702439436
+      ThaleahFat 1_5: 2636609066763198970
+      ThaleahFat 1_50: -8004751051765591502
+      ThaleahFat 1_51: 1972421453727023707
+      ThaleahFat 1_52: -3880655206323463886
+      ThaleahFat 1_53: 392526355616622858
+      ThaleahFat 1_54: -1989584797092587089
+      ThaleahFat 1_55: 2998677306744083995
+      ThaleahFat 1_56: 4794266344991179536
+      ThaleahFat 1_57: -6054998591547782978
+      ThaleahFat 1_58: -2470052739208468374
+      ThaleahFat 1_59: -5968311785756528525
+      ThaleahFat 1_6: 1580356096305682623
+      ThaleahFat 1_60: 5524072891914754023
+      ThaleahFat 1_61: -7886000189525556848
+      ThaleahFat 1_62: -8764213484487099632
+      ThaleahFat 1_63: 8279085243424433359
+      ThaleahFat 1_64: -7294354560996095361
+      ThaleahFat 1_65: -7479905689146028533
+      ThaleahFat 1_66: 5278062108735633154
+      ThaleahFat 1_67: 3056207346455376084
+      ThaleahFat 1_68: -8594588677992785549
+      ThaleahFat 1_69: 7640999772236711125
+      ThaleahFat 1_7: 2405167691887792681
+      ThaleahFat 1_70: 5065065052098870349
+      ThaleahFat 1_71: 5275126056221276632
+      ThaleahFat 1_72: -9111967874493584946
+      ThaleahFat 1_73: 4968027263714501392
+      ThaleahFat 1_74: 6009911496593335016
+      ThaleahFat 1_75: -4742497321374052272
+      ThaleahFat 1_76: -3047910416531785777
+      ThaleahFat 1_8: 3411898383928940885
+      ThaleahFat 1_9: 7930901291360801125
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
